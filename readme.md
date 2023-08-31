@@ -1,4 +1,3 @@
-# Portfolio
 
 Bonjour, je suis Redouane ELMALKI, un DevOps. Bienvenue sur mon portfolio !
 
