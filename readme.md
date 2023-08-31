@@ -17,7 +17,7 @@ Merci de votre visite ! Ce site portfolio est actuellement en cours de construct
 
 ## À propos de moi
 
-Je suis spécialisé en ingénierie DevOps, avec une expertise dans les technologies suivantes:
+Je suis spécialisé en ingénierie DevOps, avec une expertise dans les technologies suivantes: 
 
 - **CI/CD**: GitLab Runner
 - **Cloud**: Google Cloud Platform (GCP)
