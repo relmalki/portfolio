@@ -1,4 +1,4 @@
-![pic](https://drive.google.com/file/d/1Jee4m4DkfAU3xIxAq1k53Z-hi6OZ7TSi/view?usp=sharing))
+![pic](https://drive.google.com/file/d/1Jee4m4DkfAU3xIxAq1k53Z-hi6OZ7TSi/view?usp=sharing)
 
 Bonjour, je suis Redouane ELMALKI, un DevOps. Bienvenue sur mon portfolio !
 
