@@ -1,4 +1,9 @@
-![pic](https://drive.google.com/file/d/1Jee4m4DkfAU3xIxAq1k53Z-hi6OZ7TSi/view?usp=sharing)
+<div style="position: fixed; top: 0; width: 100%; z-index: -1; overflow: hidden;">
+    <a href="https://lh3.googleusercontent.com/drive-viewer/AITFw-whkVeKB_EbvHcV7jyNvnlCClgKyhthDFZ6lFeSnsvkevTBRx1z-Nw5MuwrzuWWCtWKBXbvceRI6WsgPuDv6M2SEpPa2g=s1600?source=screenshot.guru">
+        <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-whkVeKB_EbvHcV7jyNvnlCClgKyhthDFZ6lFeSnsvkevTBRx1z-Nw5MuwrzuWWCtWKBXbvceRI6WsgPuDv6M2SEpPa2g=s1600" style="width: 100%; height: 20%;">
+    </a>
+</div>
+
 
 Bonjour, je suis Redouane ELMALKI, un DevOps. Bienvenue sur mon portfolio !
 
