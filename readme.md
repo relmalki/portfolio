@@ -4,7 +4,7 @@ Bonjour, je suis Redouane ELMALKI, un DevOps. Bienvenue sur mon portfolio !
 
 ---
 
-## 🚧 Site Web en Construction �
+## 🚧 Site Web en Construction 
 
 Merci de votre visite ! Ce site portfolio est actuellement en cours de construction. Je travaille activement pour créer quelque chose d'exceptionnel. Revenez bientôt pour découvrir mon travail !
 
